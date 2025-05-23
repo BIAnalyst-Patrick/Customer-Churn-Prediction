@@ -21,6 +21,9 @@ Through a detailed analysis of a dataset containing 10,000 bank customers, machi
 **Result**:
 The **Random Forest model** achieved a **test accuracy of 84.67%**, providing clear, actionable insights. These insights enabled the bank to identify high-risk customer segments and tailor retention strategies. A potential **€1.5 million in annual revenue** was saved by targeting high-balance customers, reducing churn in these profitable segments.
 
+🔗 Try the app now: Customer Churn Prediction App [https://lnkd.in/d7Duur94](https://customer-churn-prediction-9xadjygpa4owqrdir7g3dm.streamlit.app/)
+
+
 ![image](https://github.com/user-attachments/assets/7a08a33f-a325-401f-b433-5f143aac7829)
 
 ![image](https://github.com/user-attachments/assets/73b506ba-e186-4911-909e-7f76a07f6e14)
