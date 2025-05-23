@@ -142,19 +142,25 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 
 * **What**: Middle-aged customers (45–64 years) showed the highest churn rates. This demographic, historically loyal, now faces increased churn risks.
 * **So What**: The bank risks losing **a significant portion of its customer base** if proactive measures aren’t taken. These customers are likely to have **mid-to-high account balances**, and retaining them could prevent substantial revenue loss.
-* **Visual**: Churn rate by age group (Bar chart showing churn percentage for different age brackets).
+* **Visual**: Churn rate by age group.
+  ![image](https://github.com/user-attachments/assets/810307e8-85bf-4dc7-8705-269375c0be5d)
+
 
 **Insight 2: Account Balance is a Strong Predictor**
 
 * **What**: Customers with **higher account balances** (>€200K) exhibited the highest churn likelihood. This is paradoxical since these clients are typically more engaged.
 * **So What**: Focusing on high-balance customers is crucial for retention, as they represent **the largest source of revenue**. If left unaddressed, this could result in **€1.5 million** in lost revenue annually.
-* **Visual**: Churn rate by account balance (Scatter plot showing the relationship between balance and churn probability).
+* **Visual**: Churn rate by account balance.
+  ![image](https://github.com/user-attachments/assets/c0b5e4bf-e2bf-4c61-9871-469856248b96)
+
 
 **Insight 3: Geography Matters**
 
 * **What**: **Germany** shows a **higher churn rate** compared to other countries (France and Spain), potentially due to **higher average balances** (€119K vs €62K).
 * **So What**: Tailored retention strategies specific to Germany can help reduce churn in this region, particularly for high-balance customers.
-* **Visual**: Churn rate by geography (Map showing churn rates across countries).
+* **Visual**: Churn rate by geography.
+  ![image](https://github.com/user-attachments/assets/0752f18e-6580-42d8-8763-0039d0e324b3)
+
 
 ---
 
