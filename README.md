@@ -213,10 +213,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
   **Reduce false positives**—244 customers were incorrectly flagged as churn risks. By refining the model, unnecessary retention costs can be avoided.
 
 * **Business Impact**:
-  Optimizing the model will ensure that
-
-
-resources are directed at the **right customers**, reducing wasted marketing efforts and improving overall **cost-efficiency**.
+  Optimizing the model will ensure that resources are directed at the **right customers**, reducing wasted marketing efforts and improving overall **cost-efficiency**.
 
 * **Potential Value**:
   Reducing false positives could **save 15% in retention-related costs**, improving overall resource allocation.
@@ -234,7 +231,7 @@ resources are directed at the **right customers**, reducing wasted marketing eff
 
 ---
 
-### 📉 **Business Impact Summary**
+### 📊 **Business Impact Summary**
 
 | Priority | Recommendation                                                  | Expected Impact                                     | Owner                    |
 | -------- | --------------------------------------------------------------- | --------------------------------------------------- | ------------------------ |
@@ -298,4 +295,12 @@ resources are directed at the **right customers**, reducing wasted marketing eff
 
    * **Action**: Integrate churn predictions into **real-time CRM systems** for timely interventions.
    * **Impact**: Immediate actions can lead to **5-10% more customer retention**, translating to **€500,000+ saved annually**.
+
+---
+
+### 👤 Author
+
+**Analyst:** Patrick Mwangi Gichuki
+**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
 
