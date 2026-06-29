@@ -302,5 +302,5 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 
 **Analyst:** Patrick Mwangi Gichuki
 **Portfolio:** [https://gichuki.site](https://gichuki.site)
-**LinkedIn:** [https://linkedin.com/in/patrick-gichuki-datascientist](https://linkedin.com/in/patrick-gichuki-datascientist)
+**LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
 
