@@ -19,14 +19,14 @@ The bank was grappling with high customer churn, particularly in high-value cust
 Through a detailed analysis of a dataset containing 10,000 bank customers, machine learning models—primarily **Random Forest**—were developed and trained. The class imbalance issue was addressed with **SMOTE**. A **Streamlit web app** was built to make churn predictions accessible to stakeholders, allowing real-time, interactive predictions for at-risk customers.
 
 **Result**:
-The **Random Forest model** achieved a **test accuracy of 84.67%**, providing clear, actionable insights. These insights enabled the bank to identify high-risk customer segments and tailor retention strategies. A potential **€1.5 million in annual revenue** was saved by targeting high-balance customers, reducing churn in these profitable segments.
+The **Random Forest model** achieved a **test accuracy of 84.67%**, providing clear, actionable insights. These insights enabled the bank to identify high-risk customer segments and tailor retention strategies. The model flags roughly **€1.5 million** of high-balance deposits sitting in the high-risk segment. That is an illustrative size of the exposure — no retention campaign was run against this data, so no saving has been measured.
 
 🔗 Try the app now: Customer Churn Prediction App [https://lnkd.in/d7Duur94](https://customer-churn-prediction-9xadjygpa4owqrdir7g3dm.streamlit.app/)
 
 
-![image](https://github.com/user-attachments/assets/7a08a33f-a325-401f-b433-5f143aac7829)
+![image](images/readme-01.png)
 
-![image](https://github.com/user-attachments/assets/73b506ba-e186-4911-909e-7f76a07f6e14)
+![image](images/readme-02.png)
 
 
 ---
@@ -151,7 +151,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 * **What**: Middle-aged customers (45–64 years) showed the highest churn rates. This demographic, historically loyal, now faces increased churn risks.
 * **So What**: The bank risks losing **a significant portion of its customer base** if proactive measures aren’t taken. These customers are likely to have **mid-to-high account balances**, and retaining them could prevent substantial revenue loss.
 * **Visual**: Churn rate by age group.
-  ![image](https://github.com/user-attachments/assets/810307e8-85bf-4dc7-8705-269375c0be5d)
+  ![image](images/readme-03.png)
 
 
 **Insight 2: Account Balance is a Strong Predictor**
@@ -159,7 +159,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 * **What**: Customers with **higher account balances** (>€200K) exhibited the highest churn likelihood. This is paradoxical since these clients are typically more engaged.
 * **So What**: Focusing on high-balance customers is crucial for retention, as they represent **the largest source of revenue**. If left unaddressed, this could result in **€1.5 million** in lost revenue annually.
 * **Visual**: Churn rate by account balance.
-  ![image](https://github.com/user-attachments/assets/c0b5e4bf-e2bf-4c61-9871-469856248b96)
+  ![image](images/readme-04.png)
 
 
 **Insight 3: Geography Matters**
@@ -167,7 +167,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 * **What**: **Germany** shows a **higher churn rate** compared to other countries (France and Spain), potentially due to **higher average balances** (€119K vs €62K).
 * **So What**: Tailored retention strategies specific to Germany can help reduce churn in this region, particularly for high-balance customers.
 * **Visual**: Churn rate by geography.
-  ![image](https://github.com/user-attachments/assets/0752f18e-6580-42d8-8763-0039d0e324b3)
+  ![image](images/readme-05.png)
 
 
 ---
@@ -183,7 +183,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
   Retaining high-value customers is critical to maintaining **sustained revenue**. By offering **loyalty rewards** and **personalized services**, we can reduce churn in this segment and strengthen customer lifetime value.
 
   * **Potential Value**:
-    **10% churn reduction** in this group could save **€1.5 million annually**.
+    A **10% churn reduction** in this group is the illustrative target, sized against the segment's balances — a scenario, not a measured result.
 
 #### **2. Focus on Middle-Aged Customers (45–64) with Tailored Incentives**
 
@@ -233,7 +233,9 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 
 ### 📊 **Business Impact Summary**
 
-| Priority | Recommendation                                                  | Expected Impact                                     | Owner                    |
+> **Every impact, uplift and saving figure in this README is an illustrative scenario, not a measured outcome.** No retention campaign was run against this dataset; the percentages are targets a team would commit to, and the currency figures size the exposure they would be working on.
+
+| Priority | Recommendation                                                  | Illustrative impact (not measured)                  | Owner                    |
 | -------- | --------------------------------------------------------------- | --------------------------------------------------- | ------------------------ |
 | High     | Launch retention campaign targeting high-balance customers      | Reduce churn by **10%** in high-value segments      | Marketing Team           |
 | Medium   | Focus on middle-aged customers (45–64) with tailored incentives | Reduce churn by **5%** in this demographic          | Customer Success         |
@@ -300,7 +302,7 @@ The final model achieved **84.67% accuracy** and **F1-score of 0.8969**, optimiz
 
 ### 👤 Author
 
-**Analyst:** Patrick Mwangi Gichuki
-**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**Analyst:** Patrick Gichuki
+**GitHub:** [BIAnalyst-Patrick](https://github.com/BIAnalyst-Patrick)
 **LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
 
